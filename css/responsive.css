@@ -1,0 +1,32 @@
+@media (max-width:675px){
+
+
+      .principal .ilustraçao img{
+        width: 100%;
+        margin-top: 10px;
+      }
+
+      .principal .texto-ilustraçao h1 {
+        font-size: 40px;
+        text-align: center;
+      }
+
+      .principal .texto-ilustraçao h2 {
+        font-size: 20px;
+        text-align: center;
+      
+      }
+
+      .register-btn{
+        margin: 10px auto;
+        width: 70%;
+      }
+
+      .social a  {
+        margin: 10px;
+      }
+      
+      .social{
+        justify-content: center;
+      }
+}
